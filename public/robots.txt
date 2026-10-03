@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://www.rudomusic.co.in/sitemap.xml
