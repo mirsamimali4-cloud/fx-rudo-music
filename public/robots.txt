@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://mirsamimali4-cloud.github.io/fx-rudo-music/sitemap.xml
+Sitemap: https://mirsamimali4-cloud.github.io/mirsamimali4-music/sitemap.xml
