@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://www.rudomusic.co.in/",
+  "homepage": "https://mirsamimali4-cloud.github.io/fx-rudo-music/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
